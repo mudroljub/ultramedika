@@ -35,6 +35,16 @@ include_once "ukljuci/header.php";
 
     <div class="radovi sredisnji-deo granicnik">
 
+      <h2>2019. godina.</h2>
+
+      <a href="radovi/Bilateral pulmonary agenesis.pdf">Bilateral pulmonary agenesis diagnosed in the 13 th week of gestation - a case report and literature review</a>
+
+      <a href="radovi/Prvi međunarodni kongres zdravstvenih radnika u privatnom sektoru.pdf">Prvi međunarodni kongres zdravstvenih radnika u privatnom sektoru</a>
+
+      <a href="radovi/Rano otkrivanje srčanih mana ultrazvukom u trudnoci.pdf">Rano otkrivanje srčanih mana ultrazvukom u trudnoći</a>
+
+      <a href="radovi/Racionalna upotreba niskokalorijskih zaslađivaca.pdf">Racionalna upotreba niskokalorijskih zaslađivača</a>
+
       <h2>2018. godina.</h2>
 
       <a href="radovi/SKMBT_C203.19011914090.pdf">Simpozijum "Savremeni trendovi u ishemijskoj bolesti srca - od angine pektoris do stemi infarkta miokarda", Kongres privatne lekarske prakse, Beograd, 19. april 2018.</a>
