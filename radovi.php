@@ -34,6 +34,12 @@ include_once "ukljuci/header.php";
     </div>
 
     <div class="radovi sredisnji-deo granicnik">
+      <h2>2020. godina.</h2>
+      <a href="radovi/2020 sertif 1.pdf">Hipertencija u 2020. - savremena dijagnostika i terapija</a>
+
+      <a href="radovi/2020 sertif 2.pdf">Praktična primena EU preporuka za 2020. prevencija, dijagnostika i terapija koronarne bolesti</a>
+
+      <a href="radovi/2020 sertif 3.pdf">Drugi kongres zdravstvenih radnika u privatnom sektoru</a>
 
       <h2>2019. godina.</h2>
 
