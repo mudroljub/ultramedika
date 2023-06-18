@@ -37,6 +37,20 @@ include_once "ukljuci/header.php";
 
       <h2>2023. godina</h2>
 
+      <a href="radovi/EKSPERTNA ULTRASONOGRAFIJA PLODA.docx">Ekspertna ultrasonografija ploda</a>
+
+      <a href="radovi/EKSPERTNI ULTRAZVUČNI PREGLEDI U TRUDNOĆI.docx">Ekspertni ultrazvučni pregledi u trudnoći</a>
+
+      <a href="radovi/NEINVAZIVNI PRENATALNI TEST I.docx">Neinvazivni prenatalni test I</a>
+
+      <a href="radovi/URODJENE SRČANE MANE U TRUDNOĆI.docx">Urođene srčane mane u trudnoći</a>
+
+      <a href="radovi/17th International meeting  of the European  society of gineacological oncology.jpg">17th International meeting  of the European  society of gineacological oncology</a>
+
+      <a href="radovi/American Institute  of Ultrasound in Medicine.jpeg">American Institute  of Ultrasound in Medicine</a>
+
+      <a href="radovi/The International society of ultrasound in obstetrics and ginecology.jpg">The International society of ultrasound in obstetrics and ginecology</a>
+
       <a href="anatomske-greske-ploda.php">Zašto je važno otkrivanje anatomskih grešaka u razvoju ploda</a>
 
       <h2>2022. godina</h2>
