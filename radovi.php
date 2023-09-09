@@ -37,6 +37,16 @@ include_once "ukljuci/header.php";
 
       <h2>2023. godina</h2>
 
+      <a href="radovi/ULTRAZVUK ABDOMENA  SA ILI BEZ CEVASTIH ORGANA.docx">ULTRAZVUK ABDOMENA  SA ILI BEZ CEVASTIH ORGANA</a>
+
+      <a href="radovi/TUMORI JAJNIKA.docx">TUMORI JAJNIKA</a>
+
+      <a href="radovi/RANI DRUGI TRIMESTAR TRUDNOĆE.docx">RANI DRUGI TRIMESTAR TRUDNOĆE</a>
+
+      <a href="radovi/HRT - Hormone Replacement Therapy.docx">HRT - Hormone Replacement Therapy</a>
+
+      <a href="radovi/20-22 nedelja TRADICIONALNO VREME-DRUGI TRIMESTAR TRUDNOĆE.docx">20-22 nedelja TRADICIONALNO VREME - DRUGI TRIMESTAR TRUDNOĆE</a>
+
       <a href="radovi/EKSPERTNA ULTRASONOGRAFIJA PLODA.docx">Ekspertna ultrasonografija ploda</a>
 
       <a href="radovi/EKSPERTNI ULTRAZVUČNI PREGLEDI U TRUDNOĆI.docx">Ekspertni ultrazvučni pregledi u trudnoći</a>
