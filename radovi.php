@@ -37,6 +37,28 @@ include_once "ukljuci/header.php";
 
       <h2>2023. godina</h2>
 
+      <a href="radovi/2023/Značaj imunskog sistema u prevenciji i lečenju virusnih infekcija.pdf">Značaj imunskog sistema u prevenciji i lečenju virusnih infekcija</a>
+
+      <a href="radovi/2023/Vođenje medicinske dokumentacije.pdf">Vođenje medicinske dokumentacije</a>
+
+      <a href="radovi/2023/Primena proteolitičkih enzima Trypsin i Chymotrypsin.pdf">Primena proteolitičkih enzima Trypsin i Chymotrypsin</a>
+
+      <a href="radovi/2023/Pozitivni efekti saplementacije vitaminima i mineralima na imunitet u djece.pdf">Pozitivni efekti saplementacije vitaminima i mineralima na imunitet u djece</a>
+
+      <a href="radovi/2023/Postupak pred sudovima časti LKS.pdf">Postupak pred sudovima časti LKS</a>
+
+      <a href="radovi/2023/Nesteroidni antiinflamatorni lekovi (NSAIL)-aceklofenak u fokusu.pdf">Nesteroidni antiinflamatorni lekovi (NSAIL)-aceklofenak u fokusu</a>
+
+      <a href="radovi/2023/Krivično-pravna i građansko-pravna odgovornost lekara.pdf">Krivično-pravna i građansko-pravna odgovornost lekara</a>
+
+      <a href="radovi/2023/Kontinuirana medicinska edukacija - značaj prevencije i terapije nedostatka vitamina D3.pdf">Kontinuirana medicinska edukacija - značaj prevencije i terapije nedostatka vitamina D3</a>
+
+      <a href="radovi/2023/Infekcije mokraćnih puteva – dijagnostički i terapijski pristup.pdf">Infekcije mokraćnih puteva – dijagnostički i terapijski pristup</a>
+
+      <a href="/home/damjan/projekti/ultramedika/radovi/2023/Etički aspekt rada lekara i Kodeks medicinske etike LKS.pdf">Etički aspekt rada lekara i Kodeks medicinske etike LKS</a>
+
+      <a href="radovi/2023/Četvrti kongres zdravstvenih radnika u privatnom sektoru.pdf">Četvrti kongres zdravstvenih radnika u privatnom sektoru</a>
+
       <a href="radovi/ULTRAZVUK ABDOMENA  SA ILI BEZ CEVASTIH ORGANA.docx">ULTRAZVUK ABDOMENA  SA ILI BEZ CEVASTIH ORGANA</a>
 
       <a href="radovi/TUMORI JAJNIKA.docx">TUMORI JAJNIKA</a>
