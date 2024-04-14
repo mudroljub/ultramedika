@@ -37,6 +37,8 @@ include_once "ukljuci/header.php";
 
       <h2>2024. godina</h2>
 
+      <h3>Radovi</h3>
+
       <a href="radovi/2024/4D u trudnoći.doc">4D u trudnoći</a>
 
       <a href="radovi/2024/Ca dojke BI-Rads 4a.doc">Ca dojke BI-Rads 4a</a>
@@ -53,14 +55,18 @@ include_once "ukljuci/header.php";
 
       <a href="radovi/2024/Veštačka inteligencija.doc">Veštačka inteligencija</a>
 
+      <a href="radovi/2024/Karcinom dojki (Multimodal Ultrasound Imaging).docx">Karcinom dojki (Multimodal Ultrasound Imaging)</a>
+
       <h2>2023. godina</h2>
+
+      <h3>Sertifikati</h3>
 
       <a href="radovi/2023/Značaj imunskog sistema u prevenciji i lečenju virusnih infekcija.pdf">Značaj imunskog sistema u prevenciji i lečenju virusnih infekcija</a>
 
       <a href="radovi/2023/Vođenje medicinske dokumentacije.pdf">Vođenje medicinske dokumentacije</a>
 
       <a href="radovi/2023/Primena proteolitičkih enzima Trypsin i Chymotrypsin.pdf">Primena proteolitičkih enzima Trypsin i Chymotrypsin</a>
-
+      
       <a href="radovi/2023/Pozitivni efekti saplementacije vitaminima i mineralima na imunitet u djece.pdf">Pozitivni efekti saplementacije vitaminima i mineralima na imunitet u djece</a>
 
       <a href="radovi/2023/Postupak pred sudovima časti LKS.pdf">Postupak pred sudovima časti LKS</a>
@@ -76,6 +82,14 @@ include_once "ukljuci/header.php";
       <a href="/home/damjan/projekti/ultramedika/radovi/2023/Etički aspekt rada lekara i Kodeks medicinske etike LKS.pdf">Etički aspekt rada lekara i Kodeks medicinske etike LKS</a>
 
       <a href="radovi/2023/Četvrti kongres zdravstvenih radnika u privatnom sektoru.pdf">Četvrti kongres zdravstvenih radnika u privatnom sektoru</a>
+
+      <a href="radovi/17th International meeting  of the European  society of gineacological oncology.jpg">17th International meeting  of the European  society of gineacological oncology</a>
+
+      <a href="radovi/American Institute  of Ultrasound in Medicine.jpeg">American Institute  of Ultrasound in Medicine</a>
+
+      <a href="radovi/The International society of ultrasound in obstetrics and ginecology.jpg">The International society of ultrasound in obstetrics and ginecology</a>
+
+      <h3>Radovi</h3>
 
       <a href="radovi/ULTRAZVUK ABDOMENA  SA ILI BEZ CEVASTIH ORGANA.docx">ULTRAZVUK ABDOMENA  SA ILI BEZ CEVASTIH ORGANA</a>
 
@@ -94,12 +108,6 @@ include_once "ukljuci/header.php";
       <a href="radovi/NEINVAZIVNI PRENATALNI TEST I.docx">Neinvazivni prenatalni test I</a>
 
       <a href="radovi/URODJENE SRČANE MANE U TRUDNOĆI.docx">Urođene srčane mane u trudnoći</a>
-
-      <a href="radovi/17th International meeting  of the European  society of gineacological oncology.jpg">17th International meeting  of the European  society of gineacological oncology</a>
-
-      <a href="radovi/American Institute  of Ultrasound in Medicine.jpeg">American Institute  of Ultrasound in Medicine</a>
-
-      <a href="radovi/The International society of ultrasound in obstetrics and ginecology.jpg">The International society of ultrasound in obstetrics and ginecology</a>
 
       <a href="anatomske-greske-ploda.php">Zašto je važno otkrivanje anatomskih grešaka u razvoju ploda</a>
 
