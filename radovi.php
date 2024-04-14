@@ -35,6 +35,24 @@ include_once "ukljuci/header.php";
 
     <div class="radovi sredisnji-deo granicnik">
 
+      <h2>2024. godina</h2>
+
+      <a href="radovi/2024/4D u trudnoći.doc">4D u trudnoći</a>
+
+      <a href="radovi/2024/Ca dojke BI-Rads 4a.doc">Ca dojke BI-Rads 4a</a>
+
+      <a href="radovi/2024/Ca prostate.doc">Ca prostate</a>
+
+      <a href="radovi/2024/Muški sterilitet.doc">Muški sterilitet</a>
+
+      <a href="radovi/2024/Osteoporoza.doc">Osteoporoza</a>
+
+      <a href="radovi/2024/Štitna žlezda.doc">Štitna žlezda</a>
+
+      <a href="radovi/2024/Trudnice pažnja!.doc">Trudnice pažnja!</a>
+
+      <a href="radovi/2024/Veštačka inteligencija.doc">Veštačka inteligencija</a>
+
       <h2>2023. godina</h2>
 
       <a href="radovi/2023/Značaj imunskog sistema u prevenciji i lečenju virusnih infekcija.pdf">Značaj imunskog sistema u prevenciji i lečenju virusnih infekcija</a>
