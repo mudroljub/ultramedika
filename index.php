@@ -13,6 +13,7 @@
   <p>Doc. Dr. Sci med. Tihomir M. Mihailović, specijalista radiologije: </p>
   <p><a href="tekstovi/TM-Biografija.doc">Biografija </a></p>
   <p><a href="tekstovi/TM-Portret.doc">Portret </a></p>
+  <p><a href="tekstovi/Novo u ordinaciji Ultramedika.doc">Novo u ordinaciji Ultramedika</a></p>
   <p><a href="tekstovi/Sajt-Strucnost ima cenu.doc">Stručnost ima cenu</a></p>
   <p><a href="tekstovi/Izveštaj za redovni nadzor ordinacija ULTRAMEDIKA.pdf">Izveštaj o proveri kvaliteta stručnog rada ordinacije</a></p>
   </div>
