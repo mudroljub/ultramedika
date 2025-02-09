@@ -33,6 +33,8 @@ $trenutna_strana = str_replace("/", "", $trenutna_strana);
     echo "trenutna_strana";}?>" href="oprema.php">Oprema</a>
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "pregledi") {
     echo "trenutna_strana";}?>" href="pregledi.php">Ultrazvučni pregledi</a>
+      <a class="meni-pojedinacno <?php if ($trenutna_strana == "saveti") {
+    echo "trenutna_strana";}?>" href="saveti.php">Saveti</a>
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "radovi") {
     echo "trenutna_strana";}?>" href="radovi.php">Stručni radovi i edukacija</a>
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "galerija") {
