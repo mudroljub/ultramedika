@@ -37,6 +37,21 @@ include_once "ukljuci/header.php";
 
       <h2>2024. godina</h2>
 
+      <h3>Sertifikati</h3>
+
+      <a href="radovi/LICENCA 2024/106185_Sertifikat 2024 Covid 19.pdf">Sertifikat 2024 Covid 19.pdf</a>    
+      <a href="radovi/LICENCA 2024/106185_Sertifikat 2024 Etika.pdf">Sertifikat 2024 Etika</a>
+      <a href="radovi/LICENCA 2024/106185_Sertifikat 2024 Odgovornost.pdf">Sertifikat 2024 Odgovornost</a>
+      <a href="radovi/LICENCA 2024/106185_Sertifikat 2024 Sudovi casti (2).pdf">Sertifikat 2024 Sudovi časti</a>
+      <a href="radovi/LICENCA 2024/106185_Sertifikat Mozdani udar.pdf">Sertifikat Moždani udar</a>
+      <a href="radovi/LICENCA 2024/Aktuelne smernice za lečenje Helicobacter pylori_Sertifikat.pdf">Aktuelne smernice za lečenje Helicobacter pylori</a>
+      <a href="radovi/LICENCA 2024/Gastroezofagealna refluksna bolest - GERB_Sertifikat.pdf">Gastroezofagealna refluksna bolest</a>
+      <a href="radovi/LICENCA 2024/Inovativni pristup u lečenju psorijaze.docx">Inovativni pristup u lečenju psorijaze</a>
+      <a href="radovi/LICENCA 2024/Koloidna silicijumova kiselina u tretmanu akutne i hronične dijareje _Sertifikat (1).pdf">Koloidna silicijumova kiselina u tretmanu akutne i hronične dijareje</a>
+      <a href="radovi/LICENCA 2024/Peti kongres zdravstvenih radnika.pdf">Peti kongres zdravstvenih radnika</a>
+      <a href="radovi/LICENCA 2024/Savremene metode hormonske kontraceptivne zaštite_Sertifikat.pdf">Savremene metode hormonske kontraceptivne zaštite</a>
+      <a href="radovi/LICENCA 2024/SERTIFIKAT BREAST.png">SERTIFIKAT BREAST</a>
+
       <h3>Radovi</h3>
 
       <a href="radovi/2024/4D u trudnoći.doc">4D u trudnoći</a>
