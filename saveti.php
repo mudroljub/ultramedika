@@ -5,6 +5,27 @@ include_once "ukljuci/header.php";
     <div class="radovi sredisnji-deo granicnik">
       <h1>Saveti</h1>
 
+      <h2>2025. godina</h2>
+
+      <a href="saveti/2025/Bolesti debelog creva hidrokolon.docx">Bolesti debelog creva hidrokolon</a>
+      <a href="saveti/2025/Bolesti srca - statini.docx">Bolesti srca - statini</a>
+      <a href="saveti/2025/Estrogen.docx">Estrogen</a>
+      <a href="saveti/2025/LDI holesterol.docx">LDI holesterol</a>
+      <a href="saveti/2025/Menopauza.docx">Menopauza</a>
+      <a href="saveti/2025/Povraćanje u mlazu kod beba.docx">Povraćanje u mlazu kod beba</a>
+      <a href="saveti/2025/Preeklampsija.docx">Preeklampsija</a>
+      <a href="saveti/2025/Štitna žlezda.docx">Štitna žlezda</a>
+      <a href="saveti/2025/Testosteron - androgenopauza.docx">Testosteron - androgenopauza</a>
+      <a href="saveti/2025/Testosteron.docx">Testosteron</a>
+      <a href="saveti/2025/Ultrazvuk cerviksa materice.docx">Ultrazvuk cerviksa materice</a>
+      <a href="saveti/2025/Ultrazvuk dojki - blagovremeno otkrivanje tumora.docx">Ultrazvuk dojki - blagovremeno otkrivanje tumora</a>
+      <a href="saveti/2025/Ultrazvuk pankreasa.docx">Ultrazvuk pankreasa</a>
+      <a href="saveti/2025/Ultrazvuk slepog creva - pendiksa.docx">Ultrazvuk slepog creva - pendiksa</a>
+      <a href="saveti/2025/Ultrazvuk štitne žlezde i paratiroidnih žlezda.docx">Ultrazvuk štitne žlezde i paratiroidnih žlezda</a>
+      <a href="saveti/2025/Ultrazvuk u ranoj trudnoći - hromozomske greške.docx">Ultrazvuk u ranoj trudnoći - hromozomske greške</a>
+      <a href="saveti/2025/Ultrazvuk u trudnoći.docx">Ultrazvuk u trudnoći</a>
+      <a href="saveti/2025/Značaj ultrazvuka u trudnoći.docx">Značaj ultrazvuka u trudnoći</a>
+
       <h2>2024. godina</h2>
 
       <a href="saveti/2024/ANEURIZMA ABDOMINALNE AORTE.docx">ANEURIZMA ABDOMINALNE AORTE</a>
