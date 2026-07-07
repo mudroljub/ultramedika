@@ -5,6 +5,29 @@ include_once "ukljuci/header.php";
     <div class="radovi sredisnji-deo granicnik">
       <h1>Saveti</h1>
 
+      <h2>2026. godina</h2>
+
+      <a href="saveti/2026/Changes to Menopause Hormone Therapies.docx">Changes to Menopause Hormone Therapies</a>
+      <a href="saveti/2026/DIJABETES TRUDNICE.docx">DIJABETES TRUDNICE</a>
+      <a href="saveti/2026/ENDOMETRIJ PRE i POST MENOPAUZA.docx">ENDOMETRIJ PRE i POST MENOPAUZA</a>
+      <a href="saveti/2026/Impact of Testosterone Therapy on Prostate Health in Seniors.docx">Impact of Testosterone Therapy on Prostate Health in Seniors</a>
+      <a href="saveti/2026/KARCINOM ENDOMETRIJA.docx">KARCINOM ENDOMETRIJA</a>
+      <a href="saveti/2026/KARCINOM MATERICE.docx">KARCINOM MATERICE</a>
+      <a href="saveti/2026/MAGNETNA REZONANCA DOJKI.docx">MAGNETNA REZONANCA DOJKI</a>
+      <a href="saveti/2026/MENOPAUZA HRT.docx">MENOPAUZA HRT</a>
+      <a href="saveti/2026/MIKROCEFALIJA.docx">MIKROCEFALIJA</a>
+      <a href="saveti/2026/MOZAK PLODA.docx">MOZAK PLODA</a>
+      <a href="saveti/2026/Perimenopauza.docx">Perimenopauza</a>
+      <a href="saveti/2026/qHDMI differentiates radial scars from invasive breast cancer.docx">qHDMI differentiates radial scars from invasive breast cancer</a>
+      <a href="saveti/2026/RAK-Karcinom endometrija.docx">RAK-Karcinom endometrija</a>
+      <a href="saveti/2026/SMERNICE ZA PREGLED DOJKI.docx">SMERNICE ZA PREGLED DOJKI</a>
+      <a href="saveti/2026/Study Finds Birth Control Contraceptives Linked to Higher Breast Cancer Risk.docx">Study Finds Birth Control Contraceptives Linked to Higher Breast Cancer Risk</a>
+      <a href="saveti/2026/Testosterone Therapy.docx">Testosterone Therapy</a>
+      <a href="saveti/2026/ULTRAZVUK ILI MAMOGRAFIJA DOJKI.docx">ULTRAZVUK ILI MAMOGRAFIJA DOJKI</a>
+      <a href="saveti/2026/Ultrazvuk prostate.docx">Ultrazvuk prostate</a>
+      <a href="saveti/2026/ULTRAZVUČNI PREGLED KUKOVA BEBE.docx">ULTRAZVUČNI PREGLED KUKOVA BEBE</a>
+      <a href="saveti/2026/Đavo je u detaljima MENOPAUZA.docx">Đavo je u detaljima MENOPAUZA</a>
+
       <h2>2025. godina</h2>
 
       <a href="saveti/2025/Bolesti debelog creva hidrokolon.docx">Bolesti debelog creva hidrokolon</a>
